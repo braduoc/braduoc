@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mí
 
-- 💼 Desarrollador Full Stack Junior en **Consultora Vértice Tecnologías** (Jun. 2025 – 2026), donde construí y di soporte a soluciones para clientes financieros, retail y logística.
+- 💼 Desarrollador Full Stack Junior en **Consultora Vértice Tecnologías** (Jun. 2025 – Ago. 2026), donde construí y di soporte a soluciones para clientes financieros, retail y logística.
 - 🎓 Último semestre de **Ingeniería en Informática** en DuocUC — egreso diciembre 2026.
 - 🛠️ Trabajé con **.NET Core, Java/Spring Boot, Node.js, Angular y React**, integrando APIs y optimizando consultas SQL en producción.
 - 📈 Algunos resultados: -20% en tiempo de aprobación manual (Spring Boot), -40% en tiempo de carga de reportes (optimización SQL).
