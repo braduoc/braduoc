@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=braduoc&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
 
 ### 📫 Contacto
 
