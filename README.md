@@ -1,12 +1,4 @@
-<h1 align="center">Hola, soy Brando Chacon 👋</h1>
-<h3 align="center">Desarrollador Full Stack | .NET Core · Java/Spring Boot · React · Angular</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/brandochacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bra.chacon@duocuc.cl"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Santiago,_Chile-2E7D32?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to_Work-success?style=flat&logo=googlejobs&logoColor=white" />
-</p>
+<h1 align="center">Hola, soy Brando Chacon 👋</h1> <h3 align="center">Desarrollador Full Stack | .NET Core · Java/Spring Boot · React · Angular</h3> <p align="center"> <a href="https://linkedin.com/in/brandochacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/0/?fs=1&to=bra.chacon@duocuc.cl&su=Consulta+sobre+tu+perfil&body=Hola+Brando,+vi+tu+CV+y+quisiera+conversar+contigo.&tf=cm"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://www.google.com/maps/place/Santiago,+Chile"><img src="https://img.shields.io/badge/Santiago,_Chile-2E7D32?style=flat&logo=googlemaps&logoColor=white" /></a> <img src="https://img.shields.io/badge/Open_to_Work-success?style=flat&logo=googlejobs&logoColor=white" /> </p>
 
 ---
 
