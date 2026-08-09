@@ -63,9 +63,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=braduoc&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=braduoc&hide_border=true" alt="Racha de contribuciones" />
 </p>
@@ -74,6 +72,6 @@
 
 ### 📫 Contacto
 
-- 📧 bra.chacon@duocuc.cl
+- 📧 [bra.chacon@duocuc.cl](https://mail.google.com/mail/u/0/?fs=1&to=bra.chacon@duocuc.cl&su=Consulta+sobre+tu+perfil&body=Hola+Brando,+vi+tu+CV+y+quisiera+conversar+contigo.&tf=cm)
 - 💼 [linkedin.com/in/brandochacon](https://linkedin.com/in/brandochacon)
-- 📱 +56 9 4082 6224
+- 📱 [+56 9 4082 6224](https://api.whatsapp.com/send/?phone=56940826224&text=Hola+Brando%2C+vi+tu+CV+y+me+gustar%C3%ADa+conversar&type=phone_number&app_absent=0)
