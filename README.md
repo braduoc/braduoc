@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-- 💼 Desarrollador Full Stack Junior (Práctica Profesional) en **Consultora Vértice Tecnologías** (May. 2026 – Ago. 2026), construyendo soluciones para clientes financieros, retail y logística.
+- 💼 Desarrollador Full Stack Junior (Práctica Profesional) en **Consultora Vértice Tecnologías** (May. 2026 – Ago. 2026), desarrollando soluciones para un cliente del sector farmacéutico.
 - 🎓 Último semestre de **Ingeniería en Informática** en DuocUC — egreso diciembre 2026.
 - 🛠️ Trabajé con **Java/Spring Boot, .NET Core, Angular y Python**, implementando autenticación segura con JWT, integrando pasarelas de pago y optimizando consultas SQL.
 - 🧩 Desarrollé de extremo a extremo un sistema integral de cupones de descuento y un panel administrativo de métricas de ventas y despachos.
