@@ -1,15 +1,23 @@
-<h1 align="center">Hola, soy Brando Chacon 👋</h1> <h3 align="center">Desarrollador Full Stack | .NET Core · Java/Spring Boot · React · Angular</h3> <p align="center"> <a href="https://linkedin.com/in/brandochacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/0/?fs=1&to=bra.chacon@duocuc.cl&su=Consulta+sobre+tu+perfil&body=Hola+Brando,+vi+tu+CV+y+quisiera+conversar+contigo.&tf=cm"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://www.google.com/maps/place/Santiago,+Chile"><img src="https://img.shields.io/badge/Santiago,_Chile-2E7D32?style=flat&logo=googlemaps&logoColor=white" /></a> <a href="https://api.whatsapp.com/send/?phone=56940826224&text=Hola+Brando%2C+vi+tu+CV+y+me+gustar%C3%ADa+conversar&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/Disponible_para_Trabajar-success?style=flat&logo=whatsapp&logoColor=white" /></a> </p>
+<h1 align="center">Hola, soy Brando Chacon 👋</h1>
+<h3 align="center">Desarrollador Full Stack | .NET Core · Java/Spring Boot · React · Angular</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/brandochacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=bra.chacon@duocuc.cl&su=Consulta+sobre+tu+perfil&body=Hola+Brando,+vi+tu+CV+y+quisiera+conversar+contigo.&tf=cm"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.google.com/maps/place/Santiago,+Chile"><img src="https://img.shields.io/badge/Santiago,_Chile-2E7D32?style=flat&logo=googlemaps&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send/?phone=56940826224&text=Hola+Brando%2C+vi+tu+CV+y+me+gustar%C3%ADa+conversar&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/Disponible_para_Trabajar-success?style=flat&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💼 Desarrollador Full Stack Junior en **Consultora Vértice Tecnologías** (Jun. 2025 – Ago. 2026), donde construí y di soporte a soluciones para clientes financieros, retail y logística.
+- 💼 Desarrollador Full Stack Junior (Práctica Profesional) en **Consultora Vértice Tecnologías** (May. 2026 – Ago. 2026), construyendo soluciones para clientes financieros, retail y logística.
 - 🎓 Último semestre de **Ingeniería en Informática** en DuocUC — egreso diciembre 2026.
-- 🛠️ Trabajé con **.NET Core, Java/Spring Boot, Node.js, Angular y React**, integrando APIs y optimizando consultas SQL en producción.
-- 📈 Algunos resultados: -20% en tiempo de aprobación manual (Spring Boot), -40% en tiempo de carga de reportes (optimización SQL).
-- 🌱 Apliqué principios **SOLID**, patrón **Repository** y arquitectura **MVC** en mis proyectos.
-- 🔎 **En búsqueda activa de nuevas oportunidades** como desarrollador Full Stack. ¡Hablemos!
+- 🛠️ Trabajé con **Java/Spring Boot, .NET Core, Angular y Python**, implementando autenticación segura con JWT, integrando pasarelas de pago y optimizando consultas SQL.
+- 🧩 Desarrollé de extremo a extremo un sistema integral de cupones de descuento y un panel administrativo de métricas de ventas y despachos.
+- 🌱 Aplico principios **SOLID**, patrón **Repository** y arquitectura **MVC** en mis proyectos.
+- 🔎 **En búsqueda activa de nuevas oportunidades** como Desarrollador Full Stack Junior. ¡Hablemos!
 
 ---
 
@@ -52,7 +60,6 @@
 - **[Demo de Autenticación JWT](https://github.com/braduoc/demo-autenticacion-jwt-spring-boot)** — Java + Spring Boot + Spring Security + Spring Data JPA. Login/registro, generación y validación de tokens JWT, roles y contraseñas encriptadas con BCrypt.
 
 ---
-
 
 ### 📫 Contacto
 
